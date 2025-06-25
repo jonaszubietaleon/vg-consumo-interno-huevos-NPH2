@@ -1,0 +1,11 @@
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/VgMsCasasApplication.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/config/CorsConfig.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/controller/ConsumptionController.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/controller/HomeController.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/dto/ProductDTO.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/model/Consumption.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/model/Home.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/repository/ConsumptionRepository.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/repository/HomeRepository.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/service/ConsumptionService.java
+/workspace/vg-consumo-interno-huevos-NPH2/src/main/java/pe/edu/vallegrande/vg_ms_casas/service/HomeService.java
